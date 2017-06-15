@@ -1,0 +1,23 @@
+R version 3.3.3 (2017-03-06)
+Platform: x86_64-apple-darwin13.4.0 (64-bit)
+Running under: macOS Sierra 10.12.4
+
+locale:
+[1] zh_TW.UTF-8/zh_TW.UTF-8/zh_TW.UTF-8/C/zh_TW.UTF-8/zh_TW.UTF-8
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+[1] shiny_1.0.3        DT_0.1             data.table_1.9.6  
+[4] xtable_1.8-2       ggplot2_2.2.1.9000 dplyr_0.5.0       
+[7] magrittr_1.5       knitr_1.16        
+
+loaded via a namespace (and not attached):
+ [1] Rcpp_0.12.11     munsell_0.4.3    colorspace_1.3-2 R6_2.1.2        
+ [5] rlang_0.1.1      stringr_1.0.0    plyr_1.8.4       tools_3.3.3     
+ [9] grid_3.3.3       gtable_0.2.0     DBI_0.6-1        htmltools_0.3.6 
+[13] yaml_2.1.14      lazyeval_0.2.0   assertthat_0.2.0 digest_0.6.12   
+[17] tibble_1.3.3     htmlwidgets_0.8  mime_0.4         evaluate_0.10   
+[21] rmarkdown_1.1    stringi_1.0-1    scales_0.4.1     httpuv_1.3.3    
+[25] chron_2.3-47    
